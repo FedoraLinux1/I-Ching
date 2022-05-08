@@ -319,5 +319,5 @@ def main():
 if __name__ == "__main__":
     msg = main()
     # 测试10000次，看各卦概率是否平均
-    test(10000)
+    test(100000)
     mainloop()
